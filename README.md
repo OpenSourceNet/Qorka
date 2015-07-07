@@ -74,30 +74,30 @@ Congratulations you have successfully created your own programming language (cod
 Now open up the terminal on Mac or command prompt on Windows, and change the directory to Desktop. Use the following command to do so:
 > cd desktop
 
-![alt tag](http://3.bp.blogspot.com/-4x-MBjxONJI/VZvO8Px4LJI/AAAAAAAAB-Q/8qcYbkBy4rU/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.27.51%2BPM.png)
+![alt tag](http://1.bp.blogspot.com/-ZQEUp2Vklqc/VZwStZ1wuXI/AAAAAAAAB_M/hApaBXN_8N8/s1600/1.png)
 
 Now, run the Qorka python file. To do so, input the following command:
 > Python qorka_mac.py
 
-![alt tag](http://4.bp.blogspot.com/-kZdqd4sNjDw/VZvO8vlER2I/AAAAAAAAB-U/W44pr0O_zrA/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.30.06%2BPM.png)
+![alt tag](http://1.bp.blogspot.com/--NJlLKwXW8c/VZwStiHl6AI/AAAAAAAAB_U/0nnh0SUZazw/s1600/2.png)
 
 Once you hit enter, Qorka will ask you for the location of your code (that is MyProgram.txt).
 
-![alt tag](http://3.bp.blogspot.com/-nK64mn2tyQU/VZvO83FIH_I/AAAAAAAAB-c/OguwnNPqPvM/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.30.33%2BPM.png)
+![alt tag](http://3.bp.blogspot.com/-9cSWKwbrU0Y/VZwStouzsLI/AAAAAAAAB_Q/WlTO4YILprU/s1600/3.png)
 
 Once you enter the MyProgram.txt file location, your code will run on the programming language (code interpreter) you have created. And you will see the output at follows.
 
-![alt tag](http://4.bp.blogspot.com/-bBUhtxnIVuo/VZvO9J-k4NI/AAAAAAAAB-g/ZhMRcygDPqE/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.30.42%2BPM.png)
+![alt tag](http://3.bp.blogspot.com/-zDZwzK2DTm0/VZwSum3OfjI/AAAAAAAAB_k/5nXkB_kmOWY/s1600/4.png)
 
 What's more?
 --------------
 This way you can create n number of fucntions and define n number of operations to create a language that does more than just saying "hello". Check this out, my language also incorporates math functions, commenting facility, and much much more. Check this out, here is my new set of code lines.
 
-![alt tag](http://4.bp.blogspot.com/-sapGY4rKWHM/VZvQucrO3RI/AAAAAAAAB-4/D6TrFebX0ko/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.42.36%2BPM.png)
+![alt tag](http://1.bp.blogspot.com/-uLZfvSPNTgY/VZwSu9u22oI/AAAAAAAAB_s/CPVCUjX39e0/s1600/5.png)
 
 And here is how it functions!
 
-![alt tag](http://4.bp.blogspot.com/-P4tNIykMyt8/VZvQuijRSfI/AAAAAAAAB-0/4jrJIsNvo1Y/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.43.43%2BPM.png)
+![alt tag](http://2.bp.blogspot.com/-uyanMAsNLeM/VZwSvB7EMyI/AAAAAAAAB_o/E3iUTo5jvGQ/s1600/6.png)
 
 Qorka : Program information
 =======
