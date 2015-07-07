@@ -12,7 +12,7 @@ Qorka : Environment
 
 ![alt tag](http://2.bp.blogspot.com/-rCPA4VoA3Oc/VZu7e23nhUI/AAAAAAAAB8o/u3t4LKZUtC8/s1600/summer%2Bjam%2Bseries.jpg)
 
-Qorka is completely written in python. To get started, first open the Qorka code file, "qorka_mac.py" for Mac and "qorka_pc.py" for Windows. You will see the code file is divided into three distinct parts called the "Arenas".
+Qorka is completely written in Python and requires knowledge in Python programming to operate. To get started, first open the Qorka code file, "qorka_mac.py" for Mac and "qorka_pc.py" for Windows. You will see the code file is divided into three distinct parts called the "Arenas".
 
 ![alt tag](http://2.bp.blogspot.com/-ugHM0kKYpiI/VZu_pljBmbI/AAAAAAAAB9g/CF3k5swL1ac/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.28.13%2BPM.png)
 
