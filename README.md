@@ -100,6 +100,24 @@ And here is how it functions!
 
 ![alt tag](http://2.bp.blogspot.com/-uyanMAsNLeM/VZwSvB7EMyI/AAAAAAAAB_o/E3iUTo5jvGQ/s1600/6.png)
 
+You can also make a programming language (code interpreter) that operates in your mother tongue. This will allow anyone using your progrmming language to code in your local language. For example, let  us set up a coding environment in Hindi (national language of India).
+
+Programming in Hindi and other local languages
+--------------
+We use the same process of defining a function in the second arena and executing it in the third arena. Only this time we use Hindi characters so that people can code in Hindi. "Print" in Hindi is called "छाप"(read as chapp). We will use this in Qorka to define a print function.
+
+![alt tag](http://1.bp.blogspot.com/-ioukixkkhDE/VZxX7SKiCaI/AAAAAAAACAg/mXu8loQPDIU/s1600/Screen%2BShot%2B2015-07-08%2Bat%2B4.20.32%2BAM.png)
+
+First define the "chapp" function in the first arena.
+
+![alt tag](http://1.bp.blogspot.com/-D42wkrydAFY/VZxX7TClEDI/AAAAAAAACAY/Iul9kOyIvD4/s1600/Screen%2BShot%2B2015-07-08%2Bat%2B4.20.42%2BAM.png)
+
+After that, write the code of execution in the second arena.
+
+![alt tag](http://2.bp.blogspot.com/-RM5CS4Tfa7Y/VZxX7Qob88I/AAAAAAAACAc/sgNDXC13aSk/s1600/Screen%2BShot%2B2015-07-08%2Bat%2B4.20.19%2BAM.png)
+
+And finally, write it down in the code lines file.
+
 Qorka : Program information
 =======
 Here is some quick information about Qorka and its build.
