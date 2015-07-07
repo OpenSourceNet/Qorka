@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf8 -*- 
 # This is my canvas. This is my art.
 """
 // Information //
@@ -208,3 +210,5 @@ while 1:
 
 # The Qorka framework ends here. 
 # You can start adding your code blocks from hereon.
+
+
