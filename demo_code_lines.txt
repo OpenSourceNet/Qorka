@@ -1,0 +1,44 @@
+!!# Information
+!!# ---
+!!# Name : Qorka Interpreter's Demo Code Lines' File
+!!# Description : This is the demo file for the code that runs on the Qorka interpreter.
+!!# Version : 1.0
+!!# Supporting OS : Mac OSX and Windows
+!!# Created by : Nirman Dave
+!!# Licensed to : SourceNet.in
+!!# Website : qorka.sourcenet.in
+!!# Built on : Python 2.7.6 (Pre-Requisite for Qorka)
+!!# ---
+
+!!#  Copyright notice, terms & conditions
+!!# ---
+!!# (c) Copyrights 2015 by Nirman Dave. All rights reserved.
+!!# This work may be modified, reproduced, distributed, performed, and displayed for any purpose but 
+!!# must acknowledge "Nirman Dave", "SourceNet" and "Qorka". Copyright is retained and must be 
+!!# preserved. The work is provided as is; no warranty is provided, and users accept all the liability.
+!!# ---
+
+!!# Quick Guide
+!!# ---
+!!# This is how you make comments
+!!# Use the "gab" function to print strings.
+!!# Use math functions : "add", "sub", "mul", "div"
+!!# Use ping fucntions to ping date, time and more.
+!!# ---
+
+!!# Welcome, this is the Qorka Interpreter's Demo code lines' file
+
+!!# Printing strings
+gab hello world
+gab this is a new line
+
+!!# Including date and time
+ping date
+ping time
+
+!!# Including math functions
+sub 8-6
+mul 2x4
+
+!!# Ending the program
+//end
