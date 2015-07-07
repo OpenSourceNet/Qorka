@@ -20,7 +20,7 @@ The first arena is where you can import different liberaries and use different A
 
 The second arena is the place where all the functions are defined. The functions are defined in the 'Function Block'. The default functions given are 'add', 'multi', 'div' and 'sub'. You can add your own functions while creating your own programming language.
 
-![alt tag](http://3.bp.blogspot.com/-gyec18bvEEI/VZu6xKYLzVI/AAAAAAAAB8A/FY-_mUNzCVg/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.04.59%2BPM.png)
+->![alt tag](http://3.bp.blogspot.com/-gyec18bvEEI/VZu6xKYLzVI/AAAAAAAAB8A/FY-_mUNzCVg/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.04.59%2BPM.png)<-
 
 The third arena is made of two parts. The UI code (which we do not need to alter) and The Execution code. 
 The UI code consists of the UI that you see the first time you open Qorka.
