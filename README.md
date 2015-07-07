@@ -3,7 +3,7 @@ Qorka
 
 ![alt tag](http://3.bp.blogspot.com/-Jq-LXLknT-o/VZu1kXSJS3I/AAAAAAAAB7o/kd-Qy4_eKeA/s1600/mac-book-air-2%2Bcopy.png)
 
-Ever wondered how awesome it would be if you could quickly assemble your own programming language (code interepreter)in minutes?
+Ever wondered how awesome it would be if you could quickly assemble your own programming language (code interepreter) in minutes? or a program that allows you to code in hindi, spanish, french or any other language you ever wanted?
 
 Qorka is an interpreter development platform from SourceNet which allows you to creatively put together your own programming interpreter with ease. This means that I can create my own programming syntax, by defining each fucntion on the Qorka platform. And everytime I write a program with my own programming syntax (programming laguage) in a text editor and run it on Qorka, it will execute the file code according to the functions defined by you.
 
