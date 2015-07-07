@@ -12,11 +12,11 @@ The Qorka environment
 
 Qorka is completely written in python. To get started, first open the Qorka code file, "qorka_mac.py" for Mac and "qorka_pc.py" for Windows. You will see the code file is divided into three distinct parts called the "Arenas".
 
-![alt tag](http://2.bp.blogspot.com/-73PsEqk77TA/VZu9mSUJR1I/AAAAAAAAB84/vfMN-iaGv2c/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.21.26%2BPM.png)
+![alt tag](http://2.bp.blogspot.com/-ugHM0kKYpiI/VZu_pljBmbI/AAAAAAAAB9g/CF3k5swL1ac/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.28.13%2BPM.png)
 
 The first arena is where you can import different liberaries and use different APIs specific to python language. The default imports consist of date and time. All imports happen in a list. The following are some dummy lists, they are for understanding of the layout.
 
-![alt tag](http://3.bp.blogspot.com/-pxUuCzah4j8/VZu9mvJ45vI/AAAAAAAAB88/2vaax7dM770/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.21.35%2BPM.png)
+![alt tag](http://1.bp.blogspot.com/-i2PXETWmF08/VZu_p85oPtI/AAAAAAAAB9k/gg-efHy53co/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.27.54%2BPM.png)
 
 The second arena is the place where all the functions are defined. The functions are defined in the 'Function Block'. The default functions given are 'add', 'multi', 'div' and 'sub'. You can add your own functions while creating your own programming language.
 
