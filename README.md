@@ -106,8 +106,8 @@ Here is some quick information about Qorka and its build.
 - Program description : This is Qorka. A python interface for developers to easily create and execute simple interpreters that allow simulation of simple programs.
 - Program version : 1.0
 - Supporting OS : Mac OSX & Windows
-- Created by : Nirman Dave
-- Licensed to : SourceNet.in
+- Created by : [Nirman Dave](http://www.nirmandave.com)
+- Licensed to : [SourceNet.in](http://www.sourcenet.in)
 - Website : [qorka.sourcenet.in](http://qorka.sourcenet.in)
 - Built on : Python 2.7.6 (Pre-Requisite for Qorka)
 
