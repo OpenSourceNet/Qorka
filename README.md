@@ -44,13 +44,13 @@ Explaining : Second arena
 --------------
 Jumping to the second arena, we now need to explain Qorka about what a print function is and what it will do. So we quickly define a print function. I will name my fucntion as gab! (This means each time I enter "gab Hello, World." the program will print the text after gab.
 
-![alt tag](snd arena)
+![alt tag](http://2.bp.blogspot.com/-HVNfZmmHTk8/VZvO63gGpGI/AAAAAAAAB94/fyV-Ndf1d8s/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.57.43%2BPM.png)
 
 Executing : Third arena
 --------------
 Here you need to define exactly when do you want the function to execute. We want the function to execute each time the word "gab" is found in the codeline.
 
-![alt tag](trd arena)
+![alt tag](http://1.bp.blogspot.com/-fl0ewZP6c1c/VZvO7P-T0wI/AAAAAAAAB98/2DuretayVkA/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.58.46%2BPM.png)
 
 Saving your Qorka program
 --------------
@@ -60,11 +60,44 @@ Operating in your programming language
 --------------
 By saving the Qorka file, you have now created your programming language (code interpreter). Now let us write a simple "Hello, World." program using your programming language.
 
-![alt tag](codeline)
+![alt tag](http://3.bp.blogspot.com/-cEN3TyOmonE/VZvO7CZwL8I/AAAAAAAAB-A/NYKyLQSiBpM/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.05.06%2BPM.png)
 
 Open up a text editor, and write down "gab Hello, World".
-Now save the file as "MyProgram.txt"
+Now save the file as "MyProgram.txt" on your Desktop.
 
 Executing the code
 --------------
-Congratulations you have successfully 
+Congratulations you have successfully created your own programming language (code interpreter) and have also written down your first Hello, World. code in your own programming language (code interpreter). Now we just need to run it, and see how things go! To do so, first make sure you have two files posted on your desktop.
+- MyProgram.txt
+- qorka_mac.py or qorka_pc.py
+
+Now open up the terminal on Mac or command prompt on Windows, and change the directory to Desktop. Use the following command to do so:
+> cd Desktop
+
+![alt tag](http://3.bp.blogspot.com/-4x-MBjxONJI/VZvO8Px4LJI/AAAAAAAAB-Q/8qcYbkBy4rU/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.27.51%2BPM.png)
+
+Now, run the Qorka python file. To do so, input the following command:
+> Python qorka_mac.py
+
+![alt tag](http://4.bp.blogspot.com/-kZdqd4sNjDw/VZvO8vlER2I/AAAAAAAAB-U/W44pr0O_zrA/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.30.06%2BPM.png)
+
+Once you hit enter, Qorka will ask you for the location of your code (that is MyProgram.txt).
+
+![alt tag](http://3.bp.blogspot.com/-nK64mn2tyQU/VZvO83FIH_I/AAAAAAAAB-c/OguwnNPqPvM/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.30.33%2BPM.png)
+
+Once you enter the MyProgram.txt file location, your code will run on the programming language (code interpreter) you have created. And you will see the output at follows.
+
+![alt tag](http://4.bp.blogspot.com/-bBUhtxnIVuo/VZvO9J-k4NI/AAAAAAAAB-g/ZhMRcygDPqE/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.30.42%2BPM.png)
+
+What's more?
+--------------
+This way you can create n number of fucntions and define n number of operations to create a language that does more than just saying "hello". Check this out, my language also incorporates math functions, commenting facility, and much much more. Check this out, here is my new set of code lines.
+
+![alt tag](http://4.bp.blogspot.com/-sapGY4rKWHM/VZvQucrO3RI/AAAAAAAAB-4/D6TrFebX0ko/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.42.36%2BPM.png)
+
+And here is how it functions!
+
+![alt tag](http://4.bp.blogspot.com/-P4tNIykMyt8/VZvQuijRSfI/AAAAAAAAB-0/4jrJIsNvo1Y/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.43.43%2BPM.png)
+
+Uss
+=======
