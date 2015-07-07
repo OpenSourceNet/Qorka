@@ -6,7 +6,7 @@ Qorka
 Ever wondered how awesome it would be if you could quickly assemble your own programming language (code interepreter)?
 Qorka is an interpreter development platform from SourceNet which allows you to creatively put together your own programming interpreter with ease. This means that I can create my own programming syntax, by defining each fucntion on the Qorka platform. And everytime I write a program with my own programming syntax (programming laguage) in a text editor and run it on Qorka, it will execute the file code according to the functions defined by you.
 
-The Qorka environment
+Qorka : Environment
 =======
 
 ![alt tag](http://2.bp.blogspot.com/-rCPA4VoA3Oc/VZu7e23nhUI/AAAAAAAAB8o/u3t4LKZUtC8/s1600/summer%2Bjam%2Bseries.jpg)
@@ -32,7 +32,7 @@ The Execution code is the main playground. It is tailored to function as the bas
 
 ![alt tag](http://4.bp.blogspot.com/-tnQLgJURNvo/VZu9nlx9qZI/AAAAAAAAB9U/k9p9z5MQx8g/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.22.07%2BPM.png)
 
-Working with Qorka
+Qorka : Building your first Qorka program
 =======
 Lets say you want to build a programming language (code interpreter), the first thing you need to add is a "print fucntion". 
 
@@ -72,7 +72,7 @@ Congratulations you have successfully created your own programming language (cod
 - qorka_mac.py or qorka_pc.py
 
 Now open up the terminal on Mac or command prompt on Windows, and change the directory to Desktop. Use the following command to do so:
-> cd Desktop
+> cd desktop
 
 ![alt tag](http://3.bp.blogspot.com/-4x-MBjxONJI/VZvO8Px4LJI/AAAAAAAAB-Q/8qcYbkBy4rU/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.27.51%2BPM.png)
 
@@ -99,5 +99,21 @@ And here is how it functions!
 
 ![alt tag](http://4.bp.blogspot.com/-P4tNIykMyt8/VZvQuijRSfI/AAAAAAAAB-0/4jrJIsNvo1Y/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B6.43.43%2BPM.png)
 
-Uss
+Qorka : Program information
 =======
+Here is some quick information about Qorka and its build.
+- Program name : Qorka
+- Program description : This is Qorka. A python interface for developers to easily create and execute simple interpreters that allow simulation of simple programs.
+- Program version : 1.0
+- Supporting OS : Mac OSX & Windows
+- Created by : Nirman Dave
+- Licensed to : SourceNet.in
+- Website : [qorka.sourcenet.in](http://qorka.sourcenet.in)
+- Built on : Python 2.7.6 (Pre-Requisite for Qorka)
+
+Qorka : Copyright notice, terms & conditions
+=======
+(c) Copyrights 2015 by Nirman Dave. All rights reserved. /n
+This work may be modified, reproduced, distributed, performed, and displayed for any purpose but 
+must acknowledge "Nirman Dave", "SourceNet" and "Qorka". Copyright is retained and must be 
+preserved. The work is provided as is; no warranty is provided, and users accept all the liability.
