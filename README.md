@@ -102,7 +102,7 @@ And here is how it functions!
 Qorka : Program information
 =======
 Here is some quick information about Qorka and its build.
-- Program name : Qorka
+- Program name : [Qorka](http://qorka.sourcenet.in)
 - Program description : This is Qorka. A python interface for developers to easily create and execute simple interpreters that allow simulation of simple programs.
 - Program version : 1.0
 - Supporting OS : Mac OSX & Windows
