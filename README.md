@@ -32,7 +32,7 @@ The Execution code is the main playground. It is tailored to function as the bas
 
 ![alt tag](http://4.bp.blogspot.com/-tnQLgJURNvo/VZu9nlx9qZI/AAAAAAAAB9U/k9p9z5MQx8g/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.22.07%2BPM.png)
 
-Qorka : Building your first Qorka program
+Qorka : Getting started
 =======
 Lets say you want to build a programming language (code interpreter), the first thing you need to add is a "print fucntion". 
 
