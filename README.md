@@ -32,7 +32,7 @@ The Execution code is the main playground. It is tailored to function as the bas
 
 ![alt tag](http://4.bp.blogspot.com/-tnQLgJURNvo/VZu9nlx9qZI/AAAAAAAAB9U/k9p9z5MQx8g/s1600/Screen%2BShot%2B2015-07-07%2Bat%2B5.22.07%2BPM.png)
 
-Qorka : Getting started
+Qorka : Building your first Qorka program
 =======
 Lets say you want to build a programming language (code interpreter), the first thing you need to add is a "print fucntion". 
 
@@ -113,10 +113,6 @@ Here is some quick information about Qorka and its build.
 
 Qorka : Copyright notice, terms & conditions
 =======
-(c) Copyrights 2015 by Nirman Dave. All rights reserved.
+(c) Copyrights 2015 by [Nirman Dave](http://www.nirmandave.com). All rights reserved.
 
-This work may be modified, reproduced, distributed, performed, and displayed for any purpose but 
-
-must acknowledge "Nirman Dave", "SourceNet" and "Qorka". Copyright is retained and must be 
-
-preserved. The work is provided as is; no warranty is provided, and users accept all the liability.
+This work may be modified, reproduced, distributed, performed, and displayed for any purpose but must acknowledge "[Nirman Dave](http://www.nirmandave.com)", "[SourceNet](http://www.sourcenet.in)" and "[Qorka](http://qorka.sourcenet.in)". Copyright is retained and must be preserved. The work is provided as is; no warranty is provided, and users accept all the liability.
