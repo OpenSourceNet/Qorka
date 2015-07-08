@@ -37,7 +37,7 @@ Qorka : Getting started
 =======
 Lets say you want to build a programming language (code interpreter), the first thing you need to add is a "print" function. 
 
-Playing : First Arena
+Playing : First arena
 --------------
 For this simple operation we do not need to import any modules into the first arena. So we leave the first arena as is.
 
