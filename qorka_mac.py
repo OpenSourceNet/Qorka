@@ -115,7 +115,7 @@ def div(x):
 def menu_github():
     webbrowser.open('https://github.com/OpenSourceNet/Qorka')
 
-def menu_doccumentation():
+def menu_documentation():
     webbrowser.open('https://github.com/OpenSourceNet/Qorka/blob/master/README.md')
 
 def menu_getStart():
@@ -172,7 +172,7 @@ qorkaMenu.add_cascade(label = "Playground", menu = qorkaSubMenu)
 qorkaSubMenu.add_command(label = "Getting Started", command = menu_getStart)
 qorkaSubMenu.add_command(label = "Environment", command = menu_environment)
 qorkaSubMenu.add_command(label = "Multiligual Programming", command = menu_languageInfo)
-qorkaSubMenu.add_command(label = "Doccumentation", command = menu_doccumentation)
+qorkaSubMenu.add_command(label = "Documentation", command = menu_documentation)
 qorkaSubMenu.add_command(label = "Online Repository", command = menu_github)
 qorkaSubMenu.add_separator()
 qorkaSubMenu.add_command(label = "Get Coding", command = close_window)
