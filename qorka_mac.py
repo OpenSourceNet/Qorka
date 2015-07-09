@@ -49,6 +49,7 @@ import random
 from Tkinter import *
 from PIL import ImageTk, Image
 import os
+import webbrowser
 
 # ----- Second arena -------
 """
@@ -108,6 +109,36 @@ def div(x):
     second_integer = equation[(cut+1):]
     print (int(first_integer) / int(second_integer))
 
+# -----
+# Funtion Block Pack 1 - Functions for Qorka UI menus
+
+def menu_github():
+    webbrowser.open('https://github.com/OpenSourceNet/Qorka')
+
+def menu_doccumentation():
+    webbrowser.open('https://github.com/OpenSourceNet/Qorka/blob/master/README.md')
+
+def menu_getStart():
+    webbrowser.open('https://github.com/OpenSourceNet/Qorka#qorka--getting-started')
+
+def menu_environment():
+    webbrowser.open('https://github.com/OpenSourceNet/Qorka/blob/master/README.md#qorka--environment')
+
+def menu_languageInfo():
+    webbrowser.open('https://github.com/OpenSourceNet/Qorka/blob/master/README.md#programming-in-hindi-and-other-local-languages')
+
+def menu_mainSite():
+    webbrowser.open('http://www.sourcenet.in')
+
+def menu_mainSite_article():
+    webbrowser.open('http://www.sourcenet.in/2015/07/qorka.html')
+
+def menu_subSite():
+    webbrowser.open('http://qorka.sourcenet.in')
+
+def close_window():
+    root.destroy()
+# -----
 
 # ----- Third arena -------
 """
@@ -137,11 +168,23 @@ panel.pack(side = "bottom", fill = "none", expand = "no")
 qorkaMenu = Menu(root)
 root.config(menu = qorkaMenu)
 qorkaSubMenu = Menu(qorkaMenu)
-qorkaMenu.add_cascade(label = "File", menu = qorkaSubMenu)
-qorkaSubMenu.add_command(label = "New Project")
+qorkaMenu.add_cascade(label = "Playground", menu = qorkaSubMenu)
+qorkaSubMenu.add_command(label = "Getting Started", command = menu_getStart)
+qorkaSubMenu.add_command(label = "Environment", command = menu_environment)
+qorkaSubMenu.add_command(label = "Multiligual Programming", command = menu_languageInfo)
+qorkaSubMenu.add_command(label = "Doccumentation", command = menu_doccumentation)
+qorkaSubMenu.add_command(label = "Online Repository", command = menu_github)
+qorkaSubMenu.add_separator()
+qorkaSubMenu.add_command(label = "Get Coding", command = close_window)
 
 qorkaSubMenu2 = Menu(qorkaMenu)
-qorkaMenu.add_cascade(label = "Try", menu = qorkaSubMenu2)
+qorkaMenu.add_cascade(label = "About", menu = qorkaSubMenu2)
+qorkaSubMenu2.add_command(label = "Website", command = menu_subSite)
+qorkaSubMenu2.add_command(label = "Publisher's Website", command = menu_mainSite)
+qorkaSubMenu2.add_command(label = "Publisher's Article", command = menu_mainSite_article)
+
+qorkaSubMenu3 = Menu(qorkaMenu)
+qorkaMenu.add_cascade(label = "Help", menu = qorkaSubMenu3)
 
 # Looping the main root (Qorka window) so that it stays on the screen until closed.
 root.mainloop()
@@ -210,5 +253,3 @@ while 1:
 
 # The Qorka framework ends here. 
 # You can start adding your code blocks from hereon.
-
-
